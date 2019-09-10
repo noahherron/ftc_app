@@ -270,9 +270,6 @@ public class finalAutoModular extends LinearOpMode
 
 
         }
-        {
-
-        }
     }
 
     public void turn(String direction, double targetDistance, double power)
